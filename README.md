@@ -3,7 +3,7 @@
 To run:
 
    ```bash
-   $ ./test1
+   $ python test1.py
    ```
    ```bash
    $ ./test2
